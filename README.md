@@ -56,7 +56,7 @@
 
 ## 🚀 Live Demonstraion
 
-![Preview Calculator](https://jupinsimform.github.io/lms-Scientific-Calculator/)
+[Preview Calculator](https://jupinsimform.github.io/lms-Scientific-Calculator/)
 
 ##### 🛑 Important
 
